@@ -11,7 +11,7 @@
     "discord",
     "bot"
   ],
-  "author": "Noctusvan",
+  "author": "Reincal",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.25.1",
